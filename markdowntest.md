@@ -1,6 +1,6 @@
 # Ranking Analysis
 
-The Ranking Anaylsis highlights SIDs for displacement to provide an Overall Sort Ranking. The Ranking Anaylsis has been split into specific parameters to ensure that SIDs with high coverage and limited utilization will be highlighted for displacement.
+The Ranking Anaylsis highlights SDs for displacement to provide an Overall Sort Ranking. The Ranking Anaylsis has been split into specific parameters to ensure that SIDs with high coverage and limited utilization will be highlighted for displacement.
 
 The data is being ranked according to 7 parameters - Analytics, Basic Package, Coverage, Daily Usage, Excel, IB, Mail and Total Hits, and corresponding weighting filters can be used for prioritization. The rank for each parameter will be multiplied by the weightings applied and added together to create a Total Score. The Total Score is then sorted in ascending order to provide an Overall Sort Ranking for each SID.
 
