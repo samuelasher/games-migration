@@ -1,6 +1,6 @@
 connection: "video_games"
 include: "gauntlet_*.view.lkml"
-include: "*.dashboard.lkml"
+#include: "*.dashboard.lkml"
 persist_for: "99999 hours"
 
 #Test 1: Select Console name and Console Count. Drill into console count. Why the discrepancy?
